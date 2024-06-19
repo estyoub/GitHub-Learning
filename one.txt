@@ -3,3 +3,5 @@ this is first text
 this is second line 
 this is third line
 this is 4 line
+
+added basic_action automation code to this repos
